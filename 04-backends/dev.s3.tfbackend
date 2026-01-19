@@ -1,0 +1,6 @@
+# for illustration purposes, not actively used.
+
+bucket = "terraform-course-chonrachart-remote-backend"
+key    = "04-backends/dev/state.tfstate"
+region = "ap-southeast-1"
+    
